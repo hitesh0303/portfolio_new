@@ -16,5 +16,5 @@
 |[Assignment 3-a](Assignment3-A)|Create a Node.JS Application which serves a static website.|
 |[Assignment 3-b](Assignment3-B)|Create four API using Node.JS, ExpressJS and MongoDB for CRUD Operations on assignment 2.C |
 |[Assignment 4-a](Assignment4-A)|Create a simple Mobile Website using jQuery Mobile.|
-
+|[Assignment 4-b](Assignment4-B)|Output|
 <hr>
